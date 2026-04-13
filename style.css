@@ -180,11 +180,19 @@ a:hover {
     margin-bottom: 0.8rem;
 }
 
+.section-intro {
+    margin-bottom: 2rem;
+}
+
 .publication-year h3 {
     color: var(--accent-color);
     border-bottom: 2px solid var(--border-color);
     padding-bottom: 0.5rem;
     margin-bottom: 1rem;
+}
+
+.publications-list ol {
+    padding-left: 2rem;
 }
 
 .publication-item {
